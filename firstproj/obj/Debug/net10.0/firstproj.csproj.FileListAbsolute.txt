@@ -1,0 +1,14 @@
+/home/insanecatposse/Projects/csharp/firstproj/bin/Debug/net10.0/firstproj
+/home/insanecatposse/Projects/csharp/firstproj/bin/Debug/net10.0/firstproj.deps.json
+/home/insanecatposse/Projects/csharp/firstproj/bin/Debug/net10.0/firstproj.runtimeconfig.json
+/home/insanecatposse/Projects/csharp/firstproj/bin/Debug/net10.0/firstproj.dll
+/home/insanecatposse/Projects/csharp/firstproj/bin/Debug/net10.0/firstproj.pdb
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.GeneratedMSBuildEditorConfig.editorconfig
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.AssemblyInfoInputs.cache
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.AssemblyInfo.cs
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.csproj.CoreCompileInputs.cache
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.dll
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/refint/firstproj.dll
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.pdb
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/firstproj.genruntimeconfig.cache
+/home/insanecatposse/Projects/csharp/firstproj/obj/Debug/net10.0/ref/firstproj.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fT4r1op680w=",
+  "success": true,
+  "projectFilePath": "/home/insanecatposse/Projects/csharp/firstproj/firstproj.csproj",
+  "expectedPackageFiles": [
+    "/home/insanecatposse/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
